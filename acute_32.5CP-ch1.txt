@@ -1,0 +1,48 @@
+24.03.17/4:00 PM SW ver:OXY10v3_33
+Header Ch-1
+Description: Q1030CR-B13
+IDENTIFICATION
+PHIboard number   : v1231473
+PM number         : 00000000
+Serial number     : S DLK 0001 000022   
+MUX channel       : ON - 01
+
+PARAMETERS
+Signal LED current: 050
+Ref LED current   : 076
+Ref LED amplitude : 98479
+Frequency         : 006
+Sending interval  : 0001
+Averaging         : 2
+Internal temp     : 20.0 C
+
+SYSTEM SETTINGS
+APL function      : ON
+Temp compensation : OFF
+Analog out        : OFF
+RS232 echo        : OFF
+Oxygen unit       : %a.s.
+
+CALIBRATION
+Sensor type       : 2
+0%a.s.phase 1     : 60.62 at 020.0°C amp 005400
+100.00%a.s.phase 2: 27.68 at 020.0°C amp 007300
+Date   (ddmmyy)   : 240313
+Pressure (mBar)   : 1013
+
+FIRMWARE
+Code 3.016 (IAP)  : 08/20/04, 09:50:56
+Xilinx built      : 01/05/04 (MM/DD/YY)
+
+Pressure [hPa]: 1013
+Date/dd:mm:yy;Time/hh:mm:ss;Logtime/min;Oxy/% air sat.;Phase/°;Amp;Temp/°C
+24.03.17;4:03:08 PM;2.38;97.200;26.240;20392.000;30.000
+24.03.17;4:03:09 PM;2.39;98.500;26.100;20396.000;30.000
+24.03.17;4:03:10 PM;2.41;97.590;26.200;20401.000;30.000
+24.03.17;4:03:11 PM;2.43;97.790;26.180;20403.000;30.000
+24.03.17;4:03:12 PM;2.44;98.060;26.150;20386.000;30.000
+24.03.17;4:03:13 PM;2.46;98.080;26.150;20399.000;30.000
+24.03.17;4:03:14 PM;2.48;98.220;26.130;20388.000;30.000
+24.03.17;4:03:15 PM;2.49;98.430;26.110;20381.000;30.000
+24.03.17;4:03:16 PM;2.51;97.660;26.190;20390.000;30.000
+24.03.17;4:03:19 PM;2.56;98.420;26.110;20368.000;30.000
